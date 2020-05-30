@@ -1,2 +1,2 @@
 # 2020 minicourse
-coding and sharing examples for the UIUC SST group minicourses
+Coding and sharing examples for the UIUC SST group 2020 speech tools minicourse.
