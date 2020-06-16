@@ -4,6 +4,9 @@
 # # Speech Tools Minicourse, Summer 2020
 # ## Meeting 4: pytorch
 
+# ### Template Code
+# This file (m4.ipynb) and the executable it generated (m4.py) are available in https://github.com/uiuc-sst/minicourse/tree/2020/templates.  If you still have your git tree from meeting 2, you should be able to merge the templates into your code using `git checkout 2020; git pull origin 2020`. 
+
 # ### Today's Outline
 # 1. An example groundtruth function, with train and test data
 # 2. Basic components of a neural net: forward, loss, backward, optimizer
