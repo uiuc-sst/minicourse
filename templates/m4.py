@@ -493,6 +493,10 @@ showpoints(train_X,train_Y,ax3,'Training points')
 # ### Conclusion
 # 
 # Well, that's all for today.  At the end, we really cheated: we told the neural net exactly what structure it should learn, and over what range it should search for parameters.  Given those specifications, it was able to find the perfect parameters!  
+# 
+# Then, after we found the perfect parameters, we reloaded exactly the neural network weights and biases that we wanted.
+# 
+# But isn't it cool that pytorch can be that flexible?  That's what makes it useful for research.
 
 # In[ ]:
 
